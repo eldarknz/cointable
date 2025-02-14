@@ -1,0 +1,27 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.table__header,
+.table__cell {
+  border: 1px solid black;
+}
+
+.table__header {
+  position: relative;
+  background-color: gray;
+  cursor: pointer;
+  padding: 20px 30px;
+  user-select: none;
+}
+
+.table__sort-icon {
+  content: "";
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 0;
+  height: 0;
+}
+
