@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cointable/static/css/main.471fa45f.css",
+    "main.js": "/cointable/static/js/main.956142c2.js",
+    "index.html": "/cointable/index.html",
+    "main.471fa45f.css.map": "/cointable/static/css/main.471fa45f.css.map",
+    "main.956142c2.js.map": "/cointable/static/js/main.956142c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.471fa45f.css",
+    "static/js/main.956142c2.js"
+  ]
+}
